@@ -1,0 +1,1 @@
+Um programa para registrar e classificar jogos jogados.
